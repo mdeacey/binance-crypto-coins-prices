@@ -1,3 +1,20 @@
+This repository contains a re-upload of the [Bitcoin +233 Crypto Coins Prices](https://www.kaggle.com/datasets/olegshpagin/crypto-coins-prices-ohlcv) dataset created by [Oleg Shpagin](https://www.kaggle.com/olegshpagin).
+
+## About the Dataset
+
+The dataset provides price and OHLCV (Open, High, Low, Close, Volume) data for Bitcoin and 233 other cryptocurrencies. It is a valuable resource for crypto market analysis, algorithmic trading, and data visualization projects.
+
+## Usage
+
+Feel free to use this dataset in your research or projects. Be sure to credit the original creator, [Oleg Shpagin](https://www.kaggle.com/olegshpagin), when utilizing this data.
+
+## Credits
+
+- Original dataset by [Oleg Shpagin](https://www.kaggle.com/olegshpagin)
+- Kaggle dataset link: [Bitcoin +233 Crypto Coins Prices](https://www.kaggle.com/datasets/olegshpagin/crypto-coins-prices-ohlcv)
+
+---
+
 # Cryptocurrency 234 Coins Altcoins Prices
 Bitcoin, Ethereum, Tether, Binance Coin, XRP, Cradano, Ripple, Dogecoin and more... 
 
